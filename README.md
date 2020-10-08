@@ -1,6 +1,6 @@
-# jekyller-symfoniacs-spb.ru #
+# jekyller symcode #
 
-[View](https://hanovruslan.github.io/jekyller-symfoniacs-spb.ru)
+[View](https://hanovruslan.github.io/jekyller-symcode)
 
 ## Development ##
 
