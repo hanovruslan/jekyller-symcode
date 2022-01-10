@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: PHP and symfony legacy
+    title: Symcode
     nda: false
     lang: ru
 
