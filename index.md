@@ -6,7 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
 ---
 
-# ![](pictures/symfoniacs-spb-logo-version-0.svg){:.logo}
+# ![](pictures/symcode-logo.svg){:.logo}
 
 ## {{ site.presentation.title }}
 {:.title}
@@ -85,7 +85,7 @@ style: |
 
 <!-- center -->
 
-- {:.telegram} symfoniacs_spb - чат
-- {:.telegram} symfoniacs_spb_live - канал
+- {:.telegram} symcode - чат
+- {:.telegram} symcode_live - канал
 
 <!-- right -->
